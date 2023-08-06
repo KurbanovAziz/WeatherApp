@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hours">Hours</string>
+    <string name="days">Days</string>
+    <string name="empty">Empty</string>
+    <string name="london">London</string>
+    <string name="currentTemp">%.1f°C</string>
+    <string name="maxMin">%.1f°C / %.2f°C</string>
+
+</resources>
